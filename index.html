@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Longest Route Finder</title>
+
+
+    <!-- Leaflet CSS -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+
+    <!-- Our CSS -->
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+
+    <!-- Control panel -->
+
+    <div class="panel">
+
+        <h1>Longest Route Finder</h1>
+
+        <p>
+            Click two points on the map.
+        </p>
+
+
+        <button id="findRoute">
+            Find Longest Route
+        </button>
+
+
+        <div id="info">
+            Select a start and destination point.
+        </div>
+
+    </div>
+
+
+    <!-- Map -->
+
+    <div id="map"></div>
+
+
+    <!-- Leaflet JavaScript -->
+
+    <script
+        src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+    </script>
+
+
+    <!-- Our JavaScript -->
+
+    <script src="app.js"></script>
+
+
+</body>
+
+</html>
