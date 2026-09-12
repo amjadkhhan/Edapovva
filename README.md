@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cover.png" alt="EdaPovva" width="100%">
+  <img src="image/cover.png" alt="EdaPovva" width="100%">
 </p>
 
 # EdaPovva
