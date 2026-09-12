@@ -273,7 +273,7 @@ async function getRoadNetwork() {
 
     const response =
         await fetch(
-            "https://overpass-api.de/api/interpreter",
+            "/api/overpass",
             {
                 method: "POST",
 
