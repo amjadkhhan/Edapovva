@@ -6,12 +6,12 @@
 
 ## Basic Details
 
-### Team Name: Duo of Brilliance
+### Team Name: DIJIKISTRA
 
 ### Team Members
 
--   Team Lead: \[Amjad Khan MP\] - \[IETCU\]
--   Member 2: \[Adithyan S\] - \[IETCU\]
+-   Team Lead: Amjad Khan MP - IETCU
+-   Member 2: Adithyan S - IETCU
 
 ### Project Description
 
@@ -93,8 +93,8 @@ route displayed.*
 
 ## Team Contributions
 
--   \[Amjad Khan MP\]: \[Developer\]
--   \[Adithyan S\]: \[Tester\]
+-   Amjad Khan MP: Developer
+-   Adithyan S: Tester
 
 ------------------------------------------------------------------------
 
