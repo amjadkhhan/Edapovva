@@ -72,14 +72,14 @@ route is reconstructed and displayed on the map.
 
 # Screenshots (Add at least 3)
 
-![Screenshot1](image\c1.png)
+![Screenshot1](image/c1.png)
 *Shows the OpenStreetMap interface with the start and destination points
 selected.*
 
-![Screenshot2](image\c2.png)
+![Screenshot2](image/c2.png)
 *Shows the application searching the road network for a long detour.*
 
-![Screenshot3](image\c3.png)
+![Screenshot3](image/c3.png)
 *Shows the final long route drawn between the selected start and
 destination.*
 
