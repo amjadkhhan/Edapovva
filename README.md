@@ -41,7 +41,6 @@ For Software: - HTML, CSS, JavaScript - OpenStreetMap - Leaflet.js -
 Overpass API - Dijkstra's shortest-path algorithm - Visual Studio Code -
 Live Server
 
-For Hardware: - Not applicable - Not applicable - Not applicable
 
 ### Implementation
 
