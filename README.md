@@ -91,37 +91,6 @@ construction → Dijkstra distance calculation → Detour search → Longest
 route displayed.*
 
 
-# Schematic & Circuit
-
-![Circuit](Add%20your%20circuit%20diagram%20here) *Not applicable ---
-this is a software-only project.*
-
-![Schematic](Add%20your%20schematic%20diagram%20here) *Not applicable
---- this is a software-only project.*
-
-# Build Photos
-
-![Components](Add%20photo%20of%20your%20components%20here) *Not
-applicable --- this is a software-only project.*
-
-![Build](Add%20photos%20of%20build%20process%20here) *The project was
-developed as a web application using HTML, CSS, JavaScript, Leaflet.js,
-and OpenStreetMap data.*
-
-![Final](Add%20photo%20of%20final%20product%20here) *Final web
-application showing the longest route between two selected points.*
-
-### Project Demo
-
-# Video
-
-\[Add your demo video link here\] *Demonstrates selecting two locations
-and generating a long detour route between them.*
-
-# Additional Demos
-
-\[Add any extra demo materials/links\]
-
 ## Team Contributions
 
 -   \[Amjad Khan MP\]: \[Developer\]
