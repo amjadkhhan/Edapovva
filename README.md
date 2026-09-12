@@ -85,12 +85,11 @@ destination.*
 
 # Diagrams
 
-![Workflow](Add%20your%20workflow/architecture%20diagram%20here)
+![Workflow](image/workflow.png)
 *Workflow: User selects two points → OpenStreetMap road data → Graph
 construction → Dijkstra distance calculation → Detour search → Longest
 route displayed.*
 
-For Hardware:
 
 # Schematic & Circuit
 
